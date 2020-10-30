@@ -10,4 +10,4 @@ Additionally: Am mulling plugable algorithms. That is to say, you can define var
 
 Also: Acts as an private API Gateway.
 
-Also: Caching has deterministic flags. That is, given the same set of endpoints, certain endpoints can be set to always return the result from the cache, if already computed. (Until the cache is refresh by other means/settings.) 
+Also: Caching has deterministic flags. That is, given the same set of input data, certain endpoints can be set to always return the result from the cache, if already computed. (Until the cache is refresh by other means/settings.) 
