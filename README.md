@@ -8,4 +8,4 @@ In short, the interface shell is meant to minimize code in API or serverless app
 
 Additionally: Am mulling plugable algorithms. That is to say,you can define various algorithms (for example, originally written using Python in Jupyter notebooks) but with a bash like interface allowing inoput/output to be chained. Through this, data from an API can be transformed through a series of prebuilt and well-tested functions. Increasing speed and reliability of automation setups.
 
-Also: Acts as an public API Gateway.
+Also: Acts as an private API Gateway.
